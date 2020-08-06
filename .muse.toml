@@ -1,1 +1,1 @@
-build = "mvn -pl !org.apache.druid:druid-core"
+build = "mvn -pl org.apache.druid:druid-core"
